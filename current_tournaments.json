@@ -1,1 +1,239 @@
-[]
+[
+  {
+    "club": {
+      "code": "62130611",
+      "lat": 43.25511,
+      "libelle": "BEACH TENNIS MARSEILLE",
+      "lng": 5.4051
+    },
+    "dateDebut": "2026-09-27",
+    "dateFin": "2026-09-27",
+    "distance": 130062.6,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82676932",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT100 Hommes Desautel Marseille (Après-midi)",
+    "naturesEpreuves": [
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "MARSEILLE 09"
+  },
+  {
+    "club": {
+      "code": "62130611",
+      "lat": 43.25511,
+      "libelle": "BEACH TENNIS MARSEILLE",
+      "lng": 5.4051
+    },
+    "dateDebut": "2026-09-27",
+    "dateFin": "2026-09-27",
+    "distance": 130062.6,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82676938",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT100 Femmes Desautel Marseille (Après-midi)",
+    "naturesEpreuves": [
+      "DD"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "MARSEILLE 09"
+  },
+  {
+    "club": {
+      "code": "62830459",
+      "lat": 43.107178,
+      "libelle": "BEACH TENNIS VAROIS",
+      "lng": 5.950264
+    },
+    "dateDebut": "2026-09-27",
+    "dateFin": "2026-09-27",
+    "distance": 177205.97,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82678481",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 100 DE REPRISE",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "TOULON"
+  },
+  {
+    "club": {
+      "code": "50260193",
+      "lat": 44.827305,
+      "libelle": "MONTMEYRAN TC",
+      "lng": 4.978972
+    },
+    "dateDebut": "2026-10-04",
+    "dateFin": "2026-10-04",
+    "distance": 161585.19,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82679037",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 250 Adultes Dimanche 4 octobre",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "MONTMEYRAN"
+  },
+  {
+    "club": {
+      "code": "60110002",
+      "lat": 43.18411,
+      "libelle": "ASS NARBONNAISE DE TENNIS",
+      "lng": 2.976055
+    },
+    "dateDebut": "2026-10-16",
+    "dateFin": "2026-10-24",
+    "distance": 86428.055,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82684691",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 500 ANT",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "NARBONNE"
+  },
+  {
+    "club": {
+      "code": "50260407",
+      "lat": 45.0721,
+      "libelle": "MOURS ST EUSEBE TC",
+      "lng": 5.067405
+    },
+    "dateDebut": "2026-10-17",
+    "dateFin": "2026-10-17",
+    "distance": 188342.34,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82683768",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT250",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "MOURS ST EUSEBE"
+  },
+  {
+    "club": {
+      "code": "62130611",
+      "lat": 43.25511,
+      "libelle": "BEACH TENNIS MARSEILLE",
+      "lng": 5.4051
+    },
+    "dateDebut": "2026-10-18",
+    "dateFin": "2026-10-18",
+    "distance": 130062.6,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82676940",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT250 Mixte Desautel Marseille (Après-midi)",
+    "naturesEpreuves": [
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "MARSEILLE 09"
+  },
+  {
+    "club": {
+      "code": "50260193",
+      "lat": 44.827305,
+      "libelle": "MONTMEYRAN TC",
+      "lng": 4.978972
+    },
+    "dateDebut": "2026-11-01",
+    "dateFin": "2026-11-01",
+    "distance": 161585.19,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82679038",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 250 Mixte - Dimanche 1er Novembre",
+    "naturesEpreuves": [
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "MONTMEYRAN"
+  },
+  {
+    "club": {
+      "code": "62130611",
+      "lat": 43.25511,
+      "libelle": "BEACH TENNIS MARSEILLE",
+      "lng": 5.4051
+    },
+    "dateDebut": "2026-11-08",
+    "dateFin": "2026-11-08",
+    "distance": 130062.6,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82676942",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT250 Mixte Desautel Marseille (Après-midi)",
+    "naturesEpreuves": [
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "MARSEILLE 09"
+  },
+  {
+    "club": {
+      "code": "50260193",
+      "lat": 44.827305,
+      "libelle": "MONTMEYRAN TC",
+      "lng": 4.978972
+    },
+    "dateDebut": "2026-12-20",
+    "dateFin": "2026-12-20",
+    "distance": 161585.19,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82679039",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 250 Adultes Noël - Dimanche 20 décembre",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "MONTMEYRAN"
+  }
+]
