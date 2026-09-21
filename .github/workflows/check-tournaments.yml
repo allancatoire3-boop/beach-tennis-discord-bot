@@ -38,12 +38,12 @@ jobs:
 
       - name: Enregistrer la liste des tournois déjà vus
         run: |
-          if git diff --quiet -- seen_tournaments.json; then
+          if git diff --quiet -- seen_tournaments.json current_tournaments.json; then
             echo "Aucune modification à enregistrer."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add seen_tournaments.json
+          git add seen_tournaments.json current_tournaments.json
           git commit -m "Mémoriser les tournois déjà vus"
           git push
