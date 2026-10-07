@@ -234,6 +234,30 @@
   },
   {
     "club": {
+      "code": "62130004",
+      "lat": 43.300587,
+      "libelle": "TENNIS PARK MARSEILLE",
+      "lng": 5.49311
+    },
+    "dateDebut": "2026-11-21",
+    "dateFin": "2026-11-22",
+    "distance": 135428.94,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82689519",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "En novembre, beach au Park",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "MARSEILLE"
+  },
+  {
+    "club": {
       "code": "62830459",
       "lat": 43.107178,
       "libelle": "BEACH TENNIS VAROIS",
