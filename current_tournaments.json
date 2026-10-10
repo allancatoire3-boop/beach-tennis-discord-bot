@@ -49,30 +49,6 @@
   },
   {
     "club": {
-      "code": "50260407",
-      "lat": 45.0721,
-      "libelle": "MOURS ST EUSEBE TC",
-      "lng": 5.067405
-    },
-    "dateDebut": "2026-10-17",
-    "dateFin": "2026-10-17",
-    "distance": 188342.34,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82683768",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "BT250",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "MOURS ST EUSEBE"
-  },
-  {
-    "club": {
       "code": "62130004",
       "lat": 43.300587,
       "libelle": "TENNIS PARK MARSEILLE",
@@ -97,6 +73,30 @@
   },
   {
     "club": {
+      "code": "50260407",
+      "lat": 45.0721,
+      "libelle": "MOURS ST EUSEBE TC",
+      "lng": 5.067405
+    },
+    "dateDebut": "2026-10-17",
+    "dateFin": "2026-10-17",
+    "distance": 188342.34,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82683768",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT250",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "MOURS ST EUSEBE"
+  },
+  {
+    "club": {
       "code": "62130611",
       "lat": 43.25511,
       "libelle": "BEACH TENNIS MARSEILLE",
@@ -117,6 +117,29 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "MARSEILLE 09"
+  },
+  {
+    "club": {
+      "code": "60110002",
+      "lat": 43.18411,
+      "libelle": "ASS NARBONNAISE DE TENNIS",
+      "lng": 2.976055
+    },
+    "dateDebut": "2026-10-22",
+    "dateFin": "2026-10-22",
+    "distance": 86428.055,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82691237",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Tournois Jeunes",
+    "naturesEpreuves": [
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "NARBONNE"
   },
   {
     "club": {
