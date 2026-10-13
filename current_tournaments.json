@@ -26,30 +26,6 @@
   },
   {
     "club": {
-      "code": "62130004",
-      "lat": 43.300587,
-      "libelle": "TENNIS PARK MARSEILLE",
-      "lng": 5.49311
-    },
-    "dateDebut": "2026-10-17",
-    "dateFin": "2026-10-17",
-    "distance": 135428.94,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82691000",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Beach en automne au Tennis Park ",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "MARSEILLE"
-  },
-  {
-    "club": {
       "code": "50260407",
       "lat": 45.0721,
       "libelle": "MOURS ST EUSEBE TC",
@@ -94,6 +70,30 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "ST CLAIR"
+  },
+  {
+    "club": {
+      "code": "62130004",
+      "lat": 43.300587,
+      "libelle": "TENNIS PARK MARSEILLE",
+      "lng": 5.49311
+    },
+    "dateDebut": "2026-10-17",
+    "dateFin": "2026-10-17",
+    "distance": 135428.94,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82691000",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "Beach en automne au Tennis Park ",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "MARSEILLE"
   },
   {
     "club": {
@@ -326,6 +326,29 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "MONTMEYRAN"
+  },
+  {
+    "club": {
+      "code": "60340701",
+      "lat": 43.527554,
+      "libelle": "PALAVAS BEACH TENNIS",
+      "lng": 3.932866
+    },
+    "dateDebut": "2026-11-07",
+    "dateFin": "2026-11-07",
+    "distance": 10501.452,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82690492",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT250 NOV",
+    "naturesEpreuves": [
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "PALAVAS LES FLOTS"
   },
   {
     "club": {
