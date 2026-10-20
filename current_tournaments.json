@@ -26,29 +26,6 @@
   },
   {
     "club": {
-      "code": "62130611",
-      "lat": 43.25511,
-      "libelle": "BEACH TENNIS MARSEILLE",
-      "lng": 5.4051
-    },
-    "dateDebut": "2026-10-18",
-    "dateFin": "2026-10-18",
-    "distance": 130062.6,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82676940",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "BT250 Mixte Desautel Marseille (Après-midi)",
-    "naturesEpreuves": [
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "MARSEILLE 09"
-  },
-  {
-    "club": {
       "code": "50260193",
       "lat": 44.827305,
       "libelle": "MONTMEYRAN TC",
