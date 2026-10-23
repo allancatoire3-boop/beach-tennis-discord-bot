@@ -31,29 +31,6 @@
       "libelle": "ASS NARBONNAISE DE TENNIS",
       "lng": 2.976055
     },
-    "dateDebut": "2026-10-22",
-    "dateFin": "2026-10-22",
-    "distance": 86428.055,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82691237",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "Tournois Jeunes",
-    "naturesEpreuves": [
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "NARBONNE"
-  },
-  {
-    "club": {
-      "code": "60110002",
-      "lat": 43.18411,
-      "libelle": "ASS NARBONNAISE DE TENNIS",
-      "lng": 2.976055
-    },
     "dateDebut": "2026-10-23",
     "dateFin": "2026-11-15",
     "distance": 86428.055,
@@ -166,29 +143,6 @@
   },
   {
     "club": {
-      "code": "62840072",
-      "lat": 43.694275,
-      "libelle": "TENNIS CLUB PERTUIS",
-      "lng": 5.501843
-    },
-    "dateDebut": "2026-11-01",
-    "dateFin": "2026-11-01",
-    "distance": 131578.22,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82684974",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "BT 250 DAMES OCTOBRE ROSE PERTUIS",
-    "naturesEpreuves": [
-      "DD"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "PERTUIS"
-  },
-  {
-    "club": {
       "code": "50260193",
       "lat": 44.827305,
       "libelle": "MONTMEYRAN TC",
@@ -209,6 +163,29 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "MONTMEYRAN"
+  },
+  {
+    "club": {
+      "code": "62840072",
+      "lat": 43.694275,
+      "libelle": "TENNIS CLUB PERTUIS",
+      "lng": 5.501843
+    },
+    "dateDebut": "2026-11-01",
+    "dateFin": "2026-11-01",
+    "distance": 131578.22,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82684974",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 250 DAMES OCTOBRE ROSE PERTUIS",
+    "naturesEpreuves": [
+      "DD"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "PERTUIS"
   },
   {
     "club": {
@@ -258,29 +235,6 @@
   },
   {
     "club": {
-      "code": "62840072",
-      "lat": 43.694275,
-      "libelle": "TENNIS CLUB PERTUIS",
-      "lng": 5.501843
-    },
-    "dateDebut": "2026-11-21",
-    "dateFin": "2026-11-21",
-    "distance": 131578.22,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82684999",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "BT 250 HOMMES MOUSTACHE PERTUIS",
-    "naturesEpreuves": [
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "PERTUIS"
-  },
-  {
-    "club": {
       "code": "62130004",
       "lat": 43.300587,
       "libelle": "TENNIS PARK MARSEILLE",
@@ -302,6 +256,29 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "MARSEILLE"
+  },
+  {
+    "club": {
+      "code": "62840072",
+      "lat": 43.694275,
+      "libelle": "TENNIS CLUB PERTUIS",
+      "lng": 5.501843
+    },
+    "dateDebut": "2026-11-21",
+    "dateFin": "2026-11-21",
+    "distance": 131578.22,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82684999",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 250 HOMMES MOUSTACHE PERTUIS",
+    "naturesEpreuves": [
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "PERTUIS"
   },
   {
     "club": {
