@@ -280,5 +280,28 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "MONTMEYRAN"
+  },
+  {
+    "club": {
+      "code": "62840072",
+      "lat": 43.694275,
+      "libelle": "TENNIS CLUB PERTUIS",
+      "lng": 5.501843
+    },
+    "dateDebut": "2027-01-30",
+    "dateFin": "2027-01-30",
+    "distance": 131578.22,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82685001",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 250 HOMMES OVER 45 PERTUIS",
+    "naturesEpreuves": [
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "PERTUIS"
   }
 ]
