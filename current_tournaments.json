@@ -26,29 +26,6 @@
   },
   {
     "club": {
-      "code": "62840072",
-      "lat": 43.694275,
-      "libelle": "TENNIS CLUB PERTUIS",
-      "lng": 5.501843
-    },
-    "dateDebut": "2026-10-31",
-    "dateFin": "2026-10-31",
-    "distance": 131578.22,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82684997",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "BT 250 MIXTE OCTOBRE ROSE PERTUIS",
-    "naturesEpreuves": [
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "PERTUIS"
-  },
-  {
-    "club": {
       "code": "50260193",
       "lat": 44.827305,
       "libelle": "MONTMEYRAN TC",
