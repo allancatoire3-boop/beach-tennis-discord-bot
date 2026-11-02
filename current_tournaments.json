@@ -26,52 +26,6 @@
   },
   {
     "club": {
-      "code": "50260193",
-      "lat": 44.827305,
-      "libelle": "MONTMEYRAN TC",
-      "lng": 4.978972
-    },
-    "dateDebut": "2026-11-01",
-    "dateFin": "2026-11-01",
-    "distance": 161585.19,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82679038",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "BT 250 Mixte - Dimanche 1er Novembre",
-    "naturesEpreuves": [
-      "DX"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "MONTMEYRAN"
-  },
-  {
-    "club": {
-      "code": "62840072",
-      "lat": 43.694275,
-      "libelle": "TENNIS CLUB PERTUIS",
-      "lng": 5.501843
-    },
-    "dateDebut": "2026-11-01",
-    "dateFin": "2026-11-01",
-    "distance": 131578.22,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82684974",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "BT 250 DAMES OCTOBRE ROSE PERTUIS",
-    "naturesEpreuves": [
-      "DD"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "PERTUIS"
-  },
-  {
-    "club": {
       "code": "60340701",
       "lat": 43.527554,
       "libelle": "PALAVAS BEACH TENNIS",
@@ -118,29 +72,6 @@
   },
   {
     "club": {
-      "code": "62840072",
-      "lat": 43.694275,
-      "libelle": "TENNIS CLUB PERTUIS",
-      "lng": 5.501843
-    },
-    "dateDebut": "2026-11-21",
-    "dateFin": "2026-11-21",
-    "distance": 131578.22,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82684999",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "BT 250 HOMMES MOUSTACHE PERTUIS",
-    "naturesEpreuves": [
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "PERTUIS"
-  },
-  {
-    "club": {
       "code": "62130004",
       "lat": 43.300587,
       "libelle": "TENNIS PARK MARSEILLE",
@@ -162,30 +93,6 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "MARSEILLE"
-  },
-  {
-    "club": {
-      "code": "62130391",
-      "lat": 43.38408,
-      "libelle": "TENNIS CLUB PEYPIN",
-      "lng": 5.580274
-    },
-    "dateDebut": "2026-11-21",
-    "dateFin": "2026-11-22",
-    "distance": 140190.9,
-    "favori": false,
-    "idFavori": null,
-    "idHomologation": "FED_82699484",
-    "inscriptionEnLigne": false,
-    "libelleTournoi": "BT 100 MOUSTACHE PEYPIN",
-    "naturesEpreuves": [
-      "DD",
-      "DM"
-    ],
-    "paiementEnLigne": false,
-    "pratique": "BEACH",
-    "tournoiInterne": null,
-    "ville": "PEYPIN"
   },
   {
     "club": {
@@ -233,6 +140,31 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "TOULON"
+  },
+  {
+    "club": {
+      "code": "60110002",
+      "lat": 43.18411,
+      "libelle": "ASS NARBONNAISE DE TENNIS",
+      "lng": 2.976055
+    },
+    "dateDebut": "2026-12-12",
+    "dateFin": "2027-01-30",
+    "distance": 86428.055,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82699625",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 100 HIVER ANT",
+    "naturesEpreuves": [
+      "DD",
+      "DM",
+      "DX"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "NARBONNE"
   },
   {
     "club": {
