@@ -72,6 +72,29 @@
   },
   {
     "club": {
+      "code": "62840072",
+      "lat": 43.694275,
+      "libelle": "TENNIS CLUB PERTUIS",
+      "lng": 5.501843
+    },
+    "dateDebut": "2026-11-21",
+    "dateFin": "2026-11-21",
+    "distance": 131578.22,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82684999",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 250 HOMMES MOUSTACHE PERTUIS",
+    "naturesEpreuves": [
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "PERTUIS"
+  },
+  {
+    "club": {
       "code": "62130004",
       "lat": 43.300587,
       "libelle": "TENNIS PARK MARSEILLE",
@@ -93,6 +116,30 @@
     "pratique": "BEACH",
     "tournoiInterne": null,
     "ville": "MARSEILLE"
+  },
+  {
+    "club": {
+      "code": "62130391",
+      "lat": 43.38408,
+      "libelle": "TENNIS CLUB PEYPIN",
+      "lng": 5.580274
+    },
+    "dateDebut": "2026-11-28",
+    "dateFin": "2026-11-29",
+    "distance": 140190.9,
+    "favori": false,
+    "idFavori": null,
+    "idHomologation": "FED_82699484",
+    "inscriptionEnLigne": false,
+    "libelleTournoi": "BT 100 MOUSTACHE PEYPIN",
+    "naturesEpreuves": [
+      "DD",
+      "DM"
+    ],
+    "paiementEnLigne": false,
+    "pratique": "BEACH",
+    "tournoiInterne": null,
+    "ville": "PEYPIN"
   },
   {
     "club": {
